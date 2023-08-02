@@ -9,4 +9,6 @@ The Random Forest and Gaussian Naive Bayes models with the severely imbalanced d
 
 After utilizing the SMOTE method to oversample our minority fraudulent transactions, both the Random Forest and Gaussian Naive Bayes models outpeformed the initial runs. The Random Forest model performed the best, delivering a 99.99% recall for fraudulent transactions and 99.95% recall for legitimate ones.
 
+![SmoteRandomForest](Random%20Forest%20Visuals/SMOTE%20Random%20Forest.png)
+
 This outcome emphasizes the important of having balanced datasets in classification problems.
